@@ -7,13 +7,12 @@ pg.press('win')
 pg.write('spotify')
 pg.press('enter')
 
-
 time.sleep(5)   
 
 pg.click(x=47, y=315)
 pg.click(x=485, y=460)
-time.sleep(1)
 
+time.sleep(1)
 
 pg.click(x=1370, y=107)
 pg.press('win')
